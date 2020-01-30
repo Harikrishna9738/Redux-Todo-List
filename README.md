@@ -1,4 +1,4 @@
-# ReduxExample
+# Redux-Todo-List
 
 which contains two components one for inputting the task and another componet to show the list of tasks
 
