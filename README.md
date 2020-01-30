@@ -1,6 +1,6 @@
 # ReduxExample
 
-which contains two components one for inputting the task and another componet to show the bunch of tasks
+which contains two components one for inputting the task and another componet to show the list of tasks
 
 ## For Frontend which is ReactJS, Dependencies are:
 ```
