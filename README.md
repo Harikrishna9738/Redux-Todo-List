@@ -13,13 +13,13 @@ which contains two components one for inputting the task and another componet to
 ```
 
 Go to 'Todolist/todo-list' and type the following code in the terminal:
-
+```
 npm install
-
+```
 Then to run the server, type the code in terminal:
-
+```
 npm start
-
+```
 The server has been set up and you are up to work on the application.
 
 To make this project following Languages and Libraries have been used: ##Frontend : React Js,redux;
