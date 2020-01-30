@@ -2,7 +2,7 @@
 
 which contains two components one for inputting the task and another componet to show the bunch of tasks
 
-# For Frontend which is ReactJS, Dependencies are:
+## For Frontend which is ReactJS, Dependencies are:
 ```
 "react": "^16.12.0",
 "react-dom": "^16.12.0",
